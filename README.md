@@ -1,14 +1,55 @@
+# 👋 Hi, I'm Emanuel de Lara Ruas  
 
-# Hi there 👋
-Although my public repositories are limited, this is because most of my work is done in private repositories for the companies I work with. 
-I specialize in backend development and software systems, and I aim to contribute more to the open-source community in the future. Stay tuned!
+🎯 **Back-End Developer | Systems Analyst | Tech Leader**  
+📍 Ibirubá, Rio Grande do Sul, Brazil  
+🔗 [LinkedIn](https://www.linkedin.com/in/delaradev)  
 
+---
 
-# Olá 👋
-Embora eu tenha poucas atividades públicas aqui, isso se deve ao fato de que grande parte do meu trabalho está em repositórios privados das empresas com as quais colaboro. 
-Trabalho com desenvolvimento de backend e sistemas, e pretendo contribuir mais com a comunidade open-source no futuro. Fique ligado!
+## 🚀 About Me  
 
+I’m a **Back-End Developer and Systems Analyst** with over **5 years of experience** designing, developing, and optimizing **scalable software solutions**.  
+I have strong expertise in **system integration, process analysis, and technical leadership**, delivering value in industries like **finance, retail, and agribusiness**.
 
-# ¡Hola! 👋
-Aunque mis repositorios públicos son limitados, esto se debe a que la mayor parte de mi trabajo se realiza en repositorios privados para las empresas con las que colaboro. 
-Me especializo en el desarrollo de backend y sistemas de software, y tengo la intención de contribuir más a la comunidad de código abierto en el futuro. ¡Mantente atento!
+I also lead **Sunset Software**, a tech initiative focused on **custom software development, system architecture, and project management**.  
+
+---
+
+## 💻 Tech Stack  
+
+- **Languages:** Java (Spring Boot), Python, JavaScript  
+- **Frameworks & Tools:** Docker, Kubernetes, Git, AWS, RESTful APIs, SOAP  
+- **Project & Process Management:** Jira, Confluence, Agile (Scrum), BPM, Six Sigma, Lean  
+- **Focus Areas:**  
+  - Back-End Development  
+  - Systems Integration  
+  - Software Architecture  
+  - Process Optimization  
+  - Project Leadership  
+
+---
+
+## 📚 Education  
+
+- 🎓 **B.Sc. in Computer Science** (in progress) — IFRS, Brazil (2020–2025)  
+- 🎓 **CST in Systems Analysis and Development** — UNINTER, Brazil (2022–2024)  
+- 🎓 **Technical Degree in IT** — IFRS, Brazil (2017–2019)  
+
+---
+
+## 🌎 Languages  
+
+- 🇺🇸 English — Intermediate (B2)  
+- 🇪🇸 Spanish — Intermediate (B2)  
+
+---
+
+## 📈 Current Goals  
+
+- Contribute more actively to the **open-source community**  
+- Expand expertise in **cloud architecture and DevOps**  
+- Continue improving **scalability and performance engineering** skills  
+
+---
+
+✨ *Although many of my projects are in private repositories, I’m working on publishing more **open-source contributions** soon. Stay tuned!* 🚀
