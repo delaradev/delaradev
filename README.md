@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Emanuel de Lara Ruas  
 
 🎯 **Back-End Developer | Systems Analyst | Tech Leader**  
-📍 Ibirubá, Rio Grande do Sul, Brazil  
+📍 Rio Grande do Sul, Brazil  
 🔗 [LinkedIn](https://www.linkedin.com/in/delaradev)  
 
 ---
@@ -31,7 +31,7 @@ I also lead **Sunset Software**, a tech initiative focused on **custom software 
 
 ## 📚 Education  
 
-- 🎓 **B.Sc. in Computer Science** (in progress) — IFRS, Brazil (2020–2025)  
+- 🎓 **B.Sc. in Computer Science** — IFRS, Brazil (2020–2026)  
 - 🎓 **CST in Systems Analysis and Development** — UNINTER, Brazil (2022–2024)  
 - 🎓 **Technical Degree in IT** — IFRS, Brazil (2017–2019)  
 
